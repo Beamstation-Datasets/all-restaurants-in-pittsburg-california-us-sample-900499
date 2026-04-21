@@ -1,6 +1,6 @@
 # All Restaurants in Pittsburg, California, US
 
-> Free BeamStation sample export with 9 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `900499` |
 | Location | Pittsburg |
 | Category | Restaurants |
-| Full dataset size | 98 records |
-| Free sample size | 9 records (9.18%) |
-| Last export | 2026-04-14T13:15:35.830548+00:00 |
+| Full dataset size | 59 records |
+| Free sample size | 5 records (8.47%) |
+| Last export | 2026-04-21T14:09:33.432835+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-pittsburg-california-us-sample-900499/releases/download/sample-latest/beamstation_900499_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
