@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7ad7a757-0e03-4c0a-86e8-b33531ab76f3",
+  "export_job_id": "a359c01d-f06d-4888-86cc-49130f1f53b3",
   "id_short": 900499,
-  "published_at": "2026-04-21T19:57:17Z",
+  "published_at": "2026-04-28T19:59:17Z",
   "repo_name": "all-restaurants-in-pittsburg-california-us-sample-900499",
   "sample_asset_name": "beamstation_900499_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/900499/beamstation_900499_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "5f7be71681e8aaa4e94b384eae5c2944524fa558da53621ecda61ef9d881519c",
-  "sample_size_bytes": 32488,
-  "total_records": 59
+  "sample_records": 10,
+  "sample_sha256": "62a789cde26f9a2964ac14754bb11bce664d0b58dae0cf4033771c216fcb7f50",
+  "sample_size_bytes": 50989,
+  "total_records": 101
 }
