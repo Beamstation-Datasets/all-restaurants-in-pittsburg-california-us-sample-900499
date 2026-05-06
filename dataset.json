@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Pittsburg, California. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Pittsburg, California, US",
-  "export_job_id": "a359c01d-f06d-4888-86cc-49130f1f53b3",
+  "export_job_id": "fcf33496-fb88-4a9d-a676-e0466baf536f",
   "github_org": "Beamstation-Datasets",
   "id_short": 900499,
   "location_name": "Pittsburg",
   "location_type": "city",
   "repo_name": "all-restaurants-in-pittsburg-california-us-sample-900499",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/900499/beamstation_900499_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.9,
+  "sample_pct": 9.35,
   "sample_records": 10,
-  "sample_sha256": "62a789cde26f9a2964ac14754bb11bce664d0b58dae0cf4033771c216fcb7f50",
-  "sample_size_bytes": 50989,
-  "total_records": 101,
-  "updated_at": "2026-04-28T15:10:45.533737+00:00"
+  "sample_sha256": "e3badf360c1250eadca0dd4379f31afaacdfddfb23bcb656c211530251cba8fa",
+  "sample_size_bytes": 52702,
+  "total_records": 107,
+  "updated_at": "2026-05-06T08:06:59.438491+00:00"
 }
